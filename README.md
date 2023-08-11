@@ -20,13 +20,26 @@ Conjunto de datos
 Especificar datos
 -----------------
 
-   Chest Pain Type (tipo de dalor en el pecho)  1:Typical Angina 2:Atypical Angina 3:Non-Anginal Pain 4:Asymptomatic 
+   |Chest Pain Type (tipo de dalor en el pecho)  |
+   |---------------------------------------------|
+   |1:Typical Angina                             |
+   |2:Atypical Angina                            | 
+   |3:Non-Anginal Pain 4:Asymptomatic            |
 
-    fasting blood sugar &gt;120 mg/dl  1: &gt;120 mg/dl 0:  
+   | fasting blood sugar >120 mg/dl              |
+   |---------------------------------------------|
+   |1: >120 mg/dl                                |
+   |0: <=120 mg/dl                               |
 
-    Genre(Género)  0:Mujer  1:Varón  
+   |Genre(Género)     |
+   |------------------|
+   |0:Mujer           |
+   |1:Varón           |
 
-   Diagnosis of heart disease with 50% diameter narrowing  0:  1: &gt;50% diameter narrowing  
+   |Diagnosis of heart disease with 50% diameter narrowing  |
+   |--------------------------------------------------------|
+   |0: < 50% diameter narrowing                             | 
+   |1: >50% diameter narrowing                              |
 
 
 Fórmulas aplicadas
